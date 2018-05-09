@@ -4,8 +4,16 @@ This Udacity project is focued on the application of practical statistical techn
 The analysis is performed and presented within a Jupyter notebook (also saved as PDF and HTML), and meets the following objectives:
 - Investigate and clean the data for analysis;
 - Apply statistical and probability testing techniques including hypothesis testing, simulation and logistic regression;
-- Correct interpretation of statistical outputs (p-values, z-scores, one/two-tail tests); an
+- Correct interpretation of statistical outputs (p-values, z-scores, one/two-tail tests); and
 - Effective statement of conclusion, including both statistical and practical reasoning.
+
+## Files
+- "ab_data.csv" and "countries.csv" are raw data files used for the analysis
+- "ab_clean.csv" is the cleaned output of the "ab_data.csv" data file
+- "Analyze_ab_test_results_notebook.ipynb" is the Jupyter Notebook file consisting of the Python code
+- "Analyze_ab_test_results_notebook.pdf" is the PDF version on the Jupyter Notebook
+- "Analyze_ab_test_results_notebook.html" is the HTML version of the Jupyter Notebook
+
 
 ## Author
 Tuhin Nangrani
